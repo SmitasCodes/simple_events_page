@@ -1,0 +1,18 @@
+.event_li {
+  padding: 10px;
+  text-align: center;
+  background-color: rgb(190, 250, 250);
+  list-style-type: none;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.event_li p {
+  padding: 5px 0;
+}
+
+.event_li img{
+  width: 100%;
+  height: auto;
+}
+
